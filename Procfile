@@ -1,0 +1,1 @@
+worker: python alot-of-bot.py
